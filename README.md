@@ -35,9 +35,6 @@ npm start
         <h2>Usage</h2>
         <p>This project can be used as a starting point for developing static websites using ReactJS and Bootstrap. It is especially useful for healthcare-related projects but can be adapted for other industries as well. Explore the codebase to understand how React components are structured and how Bootstrap is used for styling.</p>
 
-        <h2>Contributing</h2>
-        <p>Contributions are welcome! If you have any suggestions or improvements, feel free to submit a pull request.</p>
-
         <h2>License</h2>
         <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
     </div>
